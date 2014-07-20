@@ -7,8 +7,6 @@ CLIENT_KEY=$CLIENT_NAME+".key"
 CLIENT_ENCRYPTED_KEY=$CLIENT_NAME+".3des.key"
 
 # ask for non-default variable names
-# TODO get static IP address here
-# TODO get public IP address here
 
 echo "Please enter your static IP: "
 read input_variable
