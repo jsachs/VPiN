@@ -69,4 +69,3 @@ echo "</tls-auth>" >> $NAME$FILEEXT
 echo "Done! $NAME$FILEEXT Successfully Created."
 
 #Script written by Eric Jodoin
-\ No newline at end of file

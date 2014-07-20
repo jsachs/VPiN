@@ -1,7 +1,7 @@
 client
 dev tun
 proto udp
-remote <server Hostname or IP> 1194
+remote
 resolv-retry infinite
 nobind
 persist-key
